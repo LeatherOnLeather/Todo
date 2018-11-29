@@ -9,5 +9,5 @@ List of stuff we want to tackle
 * [x] ~~Software to pick the most focussed image in a burst collection, probably with a common ROI~~
 * [ ] Megaman style clock
 * [ ] xbox 360 water cooling
-* [ ] camera cube module
+* [x] ~~camera cube module~~
 * [ ] antenna module
